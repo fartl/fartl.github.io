@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**fartl/fartl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on farts
 - 🌱 I’m currently learning about farts
 - 👯 I’m looking to collaborate on farts
@@ -12,5 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about farts
 - 📫 How to reach me: ...
 - 😄 Pronouns: fart/attack helicopter
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am a fart
 -->
