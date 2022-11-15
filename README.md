@@ -8,4 +8,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: fart/attack helicopter
 - ⚡ Fun fact: i am a fart
--->
