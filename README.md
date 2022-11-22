@@ -1,14 +1,3 @@
-# ***Hi there*** 👋
-***Welcome to fartl.github.io***
+# ***Welcome to fartl.github.io***
 
-- 🔭 I’m currently working on farts
-- 🌱 I’m currently learning about farts
-- 👯 I’m looking to collaborate on farts
-- 🤔 I’m looking for help with farts
-- 💬 Ask me about farts
-- 📫 How to reach me: ...
-- 😄 Pronouns: fart/attack helicopter 🚁
-- ⚡ Fun fact: i am a fart 
-
-
-
+![alt text](!(https://user-images.githubusercontent.com/118233145/203186229-7f4fee38-8011-4e25-a8fc-d2274159f424.png)
