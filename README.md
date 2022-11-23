@@ -28,3 +28,8 @@
 *NGC 3132 is a bright and extensively studied planetary nebula in the constellation Vela. Its distance from Earth is estimated at about 2,000 light-years.*
 
 <img src="https://user-images.githubusercontent.com/118233145/203454460-8feaef68-ab1f-407d-ac6e-6467da685719.png" width ="600">
+
+### SMACS 0723 (Taken on July 12, 2022)
+*SMACS 0723 s a cluster of galaxies about 4 billion light years from Earth, within the southern constellation of Volans.*
+
+<img src="https://user-images.githubusercontent.com/118233145/203454996-c69389fc-a418-4b34-a324-b12527710044.png" width ="600">
