@@ -38,3 +38,18 @@
 *With giant storms, powerful winds, auroras, and extreme temperature and pressure conditions, Jupiter has a lot going on. Now, NASA’s James Webb Space Telescope has captured new images of the planet. Webb’s Jupiter observations will give scientists even more clues to Jupiter’s inner life.*
 
 <img src="https://user-images.githubusercontent.com/118233145/203675559-a95dfda2-00d1-4149-afef-67ec2d1d936d.png" width ="600">
+
+### Neptune (Taken on July 12, 2022)
+*Neptune is seen with its rings, a rare sight.*
+
+<img src="https://user-images.githubusercontent.com/118233145/203676008-a186a996-d16d-45a2-b686-244f98b7477e.png" width ="600">
+
+### Tarantula Nebula (Taken on September 2, 2022)
+*Tarantula Nebula star-forming region in a new light, including tens of thousands of never-before-seen young stars that were previously shrouded in cosmic dust.*
+
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/stsci-01ga76rm0c11w977jrhgj5j26x.png" width ="600">
+
+### Protostar within the dark cloud L1527 (Taken on Nov 16, 2022)
+*Webb Catches Fiery Hourglass as New Star Forms."
+
+<img src="https://user-images.githubusercontent.com/118233145/203676776-931d3d2d-6bda-4cb9-9dba-949c672d7ef2.png" width ="600">
