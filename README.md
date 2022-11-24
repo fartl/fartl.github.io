@@ -33,3 +33,8 @@
 *SMACS 0723 s a cluster of galaxies about 4 billion light years from Earth, within the southern constellation of Volans.*
 
 <img src="https://user-images.githubusercontent.com/118233145/203454996-c69389fc-a418-4b34-a324-b12527710044.png" width ="600">
+
+### Jupiter (Taken on August 22, 2022)
+*With giant storms, powerful winds, auroras, and extreme temperature and pressure conditions, Jupiter has a lot going on. Now, NASA’s James Webb Space Telescope has captured new images of the planet. Webb’s Jupiter observations will give scientists even more clues to Jupiter’s inner life.*
+
+<img src="https://user-images.githubusercontent.com/118233145/203675559-a95dfda2-00d1-4149-afef-67ec2d1d936d.png" width ="600">
