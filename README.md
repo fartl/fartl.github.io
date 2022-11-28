@@ -1,6 +1,6 @@
 # ***Welcome to fartl.github.io***
 
-## **James Webb Space Telescope**
+## **🔭 James Webb Space Telescope 🛰**
 ***[More information about JWST](https://g.co/kgs/vRB2kD)***
 
 ***[Image Sources](https://www.nasa.gov/)***
@@ -59,7 +59,31 @@
 
 <img src="https://user-images.githubusercontent.com/118233145/204168519-d75473cc-7472-4645-9353-fd36164aff5f.png" width ="600">
 
-### NGC 7496 (Taken on , 2022)
+### NGC 7496 (Taken on Jul 25, 2022)
 *The James Webb Space Telescope (left) sees ribbonlike channels of star formation in galaxy NGC 7496 that the Hubble (right) could not. Even more incredible, this galaxy is about 24 million light-years away.*
 
 <img src="https://user-images.githubusercontent.com/118233145/204168830-f936eca9-79da-4dfb-a7aa-fa212564f102.png" width ="600">
+
+### IC 5332 (Taken on Sep 27, 2022)
+*Has a diameter of roughly 66,000 light-years, which means it's about two-thirds the size of the Milky Way. This galaxy is notable for facing Earth head-on, granting us this magnificent view.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204169533-4e8311ca-8031-491e-812b-15162266fe2d.png" width ="600">
+
+### NGC 1300 (Taken on Feb 17, 2022)
+*Combines observations from a variety of sources, including infrared images from the Webb, ultraviolet light captured by the Hubble Space Telescope, data from the Very Large Telescope’s Multi Unit Spectroscopic Explorer, and radio light observed by the Atacama Large Millimeter/submillimeter Array.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204169680-018f6477-6878-4844-b023-cff0c4025cd0.png" width = "600">
+
+### GLASS-z13 (Taken on Jul 20, 2022)
+*This newfound remote galaxy is so old that it dates back to 300 million years after the Big Bang.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204169885-662d3dcb-a514-455e-917a-531ac86b0ad0.png" width ="600">
+
+### Wolf-Rayet 140 (Taken on Oct 12, 2022)
+*This pair of stars regularly produces dust rings about every eight years because of how the stars orbit and interact. This fascinating cosmic "fingerprint" is located about 5,000 light-years away.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204170012-63c8d10f-0d5f-4117-b240-37ddabbcbf5b.png" width ="600">
+
+### Messier 74 (Taken on , 2022)
+*A spiral galaxy known as M74 shines at its brightest in this image, which features data from both the Webb and the Hubble. This galaxy is about 32 million light-years away.*
+<img src="https://user-images.githubusercontent.com/118233145/204170116-e1cac3dc-1cfd-41cf-bc2c-b38567f9ef2f.png" width ="600">
