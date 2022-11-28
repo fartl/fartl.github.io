@@ -53,3 +53,13 @@
 *Webb Catches Fiery Hourglass as New Star Forms."
 
 <img src="https://user-images.githubusercontent.com/118233145/203676776-931d3d2d-6bda-4cb9-9dba-949c672d7ef2.png" width ="600">
+
+### Stephan's Quintet (Taken on Jul 12, 2022)
+*This picture of a group of five galaxies, captured by the Webb's NIRCam and MIRI, required over 150 million pixels and 1,000 image files to create.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204168519-d75473cc-7472-4645-9353-fd36164aff5f.png" width ="600">
+
+### NGC 7496 (Taken on , 2022)
+*The James Webb Space Telescope (left) sees ribbonlike channels of star formation in galaxy NGC 7496 that the Hubble (right) could not. Even more incredible, this galaxy is about 24 million light-years away.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204168830-f936eca9-79da-4dfb-a7aa-fa212564f102.png" width ="600">
