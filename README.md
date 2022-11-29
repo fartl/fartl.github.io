@@ -87,3 +87,8 @@
 ### Messier 74 (Taken on , 2022)
 *A spiral galaxy known as M74 shines at its brightest in this image, which features data from both the Webb and the Hubble. This galaxy is about 32 million light-years away.*
 <img src="https://user-images.githubusercontent.com/118233145/204170116-e1cac3dc-1cfd-41cf-bc2c-b38567f9ef2f.png" width ="600">
+
+### WASP-39 b (Taken on Nov 23, 2022)
+*The telescope’s array of highly sensitive instruments was trained on the atmosphere of WASP-39 b, a “hot Saturn” (a planet about as massive as Saturn but in an orbit tighter than Mercury) orbiting a star some 700 light-years away.*
+
+<img src="https://user-images.githubusercontent.com/118233145/204407933-530a7269-5c5d-4e72-8080-bbff03fa34d2.png" width ="600">
